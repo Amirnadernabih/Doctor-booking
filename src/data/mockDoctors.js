@@ -8,7 +8,7 @@ const doctors = [
     location: "Cairo Medical Center",
     rating: 4.8,
     available: true,
-    image: "public/images/doctor-img.jpg",
+    image: "/images/doctor-img.jpg",
     availability: {
       Monday: ["10:00", "11:00", "14:00"],
       Wednesday: ["12:00", "15:00"],
@@ -22,7 +22,7 @@ const doctors = [
     location: "Alexandria Health Hub",
     rating: 4.5,
     available: false,
-    image: "public/images/doctor-img.jpg",
+    image: "/images/doctor-img.jpg",
     availability: {}
   },
   {
@@ -32,7 +32,7 @@ const doctors = [
     location: "Maadi Children Clinic",
     rating: 4.9,
     available: true,
-    image: "public/images/doctor-img.jpg",
+    image: "/images/doctor-img.jpg",
     availability: {
       Tuesday: ["10:30", "13:00"],
       Thursday: ["09:00", "12:00", "16:00"]
@@ -45,7 +45,7 @@ const doctors = [
     location: "Zamalek Neuro Center",
     rating: 4.7,
     available: true,
-    image: "public/images/doctor-img.jpg",
+    image: "/images/doctor-img.jpg",
     availability: {
       Monday: ["09:00", "11:00"],
       Wednesday: ["13:00", "15:30"],
@@ -59,7 +59,7 @@ const doctors = [
     location: "Nasr City Hospital",
     rating: 4.4,
     available: false,
-    image: "public/images/doctor-img.jpg",
+    image: "/images/doctor-img.jpg",
     availability: {}
   },
   {
@@ -69,7 +69,7 @@ const doctors = [
     location: "Giza Heart Clinic",
     rating: 4.6,
     available: true,
-    image: "public/images/doctor-img.jpg",
+    image: "/images/doctor-img.jpg",
     availability: {
       Tuesday: ["08:00", "09:00", "10:00"],
       Thursday: ["11:00", "13:00"]
@@ -82,7 +82,7 @@ const doctors = [
     location: "Heliopolis Skin Center",
     rating: 4.3,
     available: true,
-    image: "public/images/doctor-img.jpg",
+    image: "/images/doctor-img.jpg",
     availability: {
       Monday: ["14:00", "16:00"],
       Wednesday: ["10:00", "11:30"],
@@ -96,7 +96,7 @@ const doctors = [
     location: "Dokki Family Health",
     rating: 4.8,
     available: false,
-    image: "public/images/doctor-img.jpg",
+    image: "/images/doctor-img.jpg",
     availability: {}
   },
   {
@@ -106,7 +106,7 @@ const doctors = [
     location: "6th of October Clinic",
     rating: 4.5,
     available: true,
-    image: "public/images/doctor-img.jpg",
+    image: "/images/doctor-img.jpg",
     availability: {
       Sunday: ["09:00", "11:00"],
       Tuesday: ["14:00", "16:00"],
@@ -120,7 +120,7 @@ const doctors = [
     location: "Mohandiseen Brain Center",
     rating: 4.6,
     available: false,
-    image: "public/images/doctor-img.jpg",
+    image: "/images/doctor-img.jpg",
     availability: {}
   },
   {
@@ -130,7 +130,7 @@ const doctors = [
     location: "New Cairo Heart Hospital",
     rating: 4.9,
     available: true,
-    image: "public/images/doctor-img.jpg",
+    image: "/images/doctor-img.jpg",
     availability: {
       Monday: ["09:30", "12:00"],
       Thursday: ["10:00", "12:00"],
@@ -144,7 +144,7 @@ const doctors = [
     location: "Shoubra Ortho Center",
     rating: 4.7,
     available: true,
-    image: "public/images/doctor-img.jpg",
+    image: "/images/doctor-img.jpg",
     availability: {
       Tuesday: ["11:00", "13:00"],
       Thursday: ["14:00", "16:00"],
